@@ -13,3 +13,4 @@ PHP Playground build using lamp stack and dockerized container
 $ docker-compose build
 $ docker-compose up
 ```
+4. visit http://127.0.0.1/index.php
